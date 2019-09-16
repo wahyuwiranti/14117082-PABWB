@@ -1,0 +1,16 @@
+body {
+	background: #eee;
+	margin:0;
+	font-family: 'Open Sans', sans-serif;
+}
+body{
+    background: url(background.jpg);
+    background-size: cover;
+    color: black;
+    font-family: Arial, Verdana, sans-serif;}
+ 
+hr {
+	border:0;
+	background:#dedede;
+	height:1px;
+}

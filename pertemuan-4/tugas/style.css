@@ -15,3 +15,13 @@ color: #ffffff;
 background-color: #ffffff; /* White */
 color: #555555;
 }
+.bg-4 {
+background-color: #2f2f2f; /* Black Gray */
+color: #fff;
+}
+p {font-size: 16px;}
+.margin {margin: 35px;}
+.container-fluid {
+padding-top: 50px;
+padding-bottom: 50px;
+}

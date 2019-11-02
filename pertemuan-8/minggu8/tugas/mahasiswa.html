@@ -22,8 +22,16 @@
 		<h3>===============================<br>
         SEARCH DATA</h3>
         <form  action="search.php" method="GET">
-        <b>Nama : </b><input type="text" name="nama" size="20" maxlength="50">
+        <b>Nama : </b><input type="text" name="nama" size="15" maxlength="40">
         <input type="submit" value="Cari Data">
         </form>
+		
+		<h3>===============================<br>
+        HAPUS DATA</h3>
+        <form action="delete.php" method="POST">
+        <b>NRP : </b><input type="text" name="NRP" size="15" maxlength="40">
+        <input type="submit" value="Hapus Data">        
+        </form>
+		
     </BODY>    
 </HTML>
